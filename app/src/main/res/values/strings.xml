@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KPSS Genel Kültür</string>
+
+    <string name="menu_title">KPSS</string>
+    <string name="menu_button">Genel Kültür</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_lessons">KPSS Genel Kültür Dersler</string>
+    <string name="title_activity_units">Üniteler</string>
+    <string name="title_activity_subunits">Alt Üniteler</string>
+    <string name="title_activity_topic">Konu Anlatımı</string>
+    <string name="loading_error_title">HATA</string>
+    <string name="loading_error_message">Data yüklenemedi!</string>
+    <string name="loading_error_button">Tamam</string>
+</resources>
